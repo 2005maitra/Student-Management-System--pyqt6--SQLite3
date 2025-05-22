@@ -30,4 +30,5 @@ This feature allows you to input and save a new student's details.
 |--------------|--------------|
 | ![Add Student 1](screenshots/Screenshot%20(13).png) | ![Add Student 2](screenshots/Screenshot%20(14).png) |
 
-
+| Screenshot 3 |
+![After Add Student](screenshots/Screenshot%20(15).png)
