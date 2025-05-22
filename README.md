@@ -48,7 +48,6 @@ Displays the list of all saved students and allows searching/filtering.
 Edit existing student records with new information.
 
 | Before Update |Update Prompt| After Update |
-|---------------|--------------|
 | ![Update 1](screenshots/Screenshot%20(15).png) | ![Update 2](screenshots/Screenshot%20(16).png) | ![Update 3](screenshots/Screenshot%20(17).png)|
 
 
@@ -57,5 +56,4 @@ Edit existing student records with new information.
 Easily remove a student record from the system.
 
 | Delete Prompt 1 |Delete Prompt 2 | After Deletion |
-|----------------|----------------|
 | ![Delete 1](screenshots/Screenshot%20(22).png) |![Delete 2](screenshots/Screenshot%20(23).png) | ![Delete 3](screenshots/Screenshot%20(24).png) |
